@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.pkl
+*.pt
+*.h5
+*.dll
+*.lib
+*.exe
+.env
+.DS_Store
